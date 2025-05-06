@@ -1,0 +1,809 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_NM2NGHN/e_project_onlineinsurance_/True/SqlTable/dbo.insurancerequests.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\employeeinsurancerequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\employeeinsurancerequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\insurancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\insurancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\insurancerequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\insurancerequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\employyeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\employyeedashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\addinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\addinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_NM2NGHN/e_project_onlineinsurance_/True/SqlTable/dbo.admins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\employeeacceptedrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\employeeacceptedrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\employeerejectedrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\employeerejectedrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_NM2NGHN/e_project_onlineinsurance_/True/SqlTable/dbo.employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\rejectedinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\rejectedinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\pendinginsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\pendinginsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\activeinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\activeinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\motorinsuranceform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\motorinsuranceform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\lifeinsuranceform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\lifeinsuranceform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\homeinsuranceform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\homeinsuranceform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\healthinsuranceform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\healthinsuranceform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\applyinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\applyinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\life.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\life.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\healthviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\healthviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\models\\customfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:models\\customfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\deleteinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\deleteinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\editinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\editinsurance.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\employeelogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\admin\\userregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\admin\\userregister.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\db\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:db\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|c:\\users\\online laptop shop\\downloads\\eproject\\onlineinsurance\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{951054F6-AB6C-4AA9-B544-3100D54C93B8}|OnlineInsurance.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 112,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.insurancerequests [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_NM2NGHN/e_project_onlineinsurance_/True/SqlTable/dbo.insurancerequests.sql",
+              "ToolTip": "dbo.insurancerequests [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-26T05:10:22.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsuranceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\InsuranceRequest.cs",
+              "RelativeDocumentMoniker": "Models\\InsuranceRequest.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\InsuranceRequest.cs",
+              "RelativeToolTip": "Models\\InsuranceRequest.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:48:22.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeInsuranceRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\EmployeeInsuranceRequest.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EmployeeInsuranceRequest.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\EmployeeInsuranceRequest.cshtml*",
+              "RelativeToolTip": "Views\\Admin\\EmployeeInsuranceRequest.cshtml*",
+              "ViewState": "AQIAAKsBAAAAGDMzM7MhwK0BAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T08:58:54.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\UserDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\UserDashboard.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\UserDashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\UserDashboard.cshtml",
+              "ViewState": "AQIAAJgBAAAAAAAAAATOPX4AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T14:30:14.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Controllers\\AdminController.cs*",
+              "RelativeToolTip": "Controllers\\AdminController.cs*",
+              "ViewState": "AQIAAFAEAAAAoMvMzMzMv0YFAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:54:21.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsuranceRequestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\InsuranceRequestViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\InsuranceRequestViewModel.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\InsuranceRequestViewModel.cs",
+              "RelativeToolTip": "Models\\InsuranceRequestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:48:02.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T09:05:00.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGUAAAAAgDIzMzPbv3kAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:26:42.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployyeeDashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\EmployyeeDashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EmployyeeDashboard.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\EmployyeeDashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EmployyeeDashboard.cshtml",
+              "ViewState": "AQIAACcBAAAA0GVmZmYOwDYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T10:18:34.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Addinsurance.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Addinsurance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Addinsurance.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Addinsurance.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Addinsurance.cshtml",
+              "ViewState": "AQIAABMAAABAMjMzMzMbwBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:18:28.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.admins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_NM2NGHN/e_project_onlineinsurance_/True/SqlTable/dbo.admins.sql",
+              "ToolTip": "dbo.admins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-24T09:47:16.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeAcceptedRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\EmployeeAcceptedRequest.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EmployeeAcceptedRequest.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\EmployeeAcceptedRequest.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EmployeeAcceptedRequest.cshtml",
+              "ViewState": "AQIAAMgAAAAAz8zMzEwUwNAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T19:26:14.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeRejectedRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\EmployeeRejectedRequest.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EmployeeRejectedRequest.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\EmployeeRejectedRequest.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EmployeeRejectedRequest.cshtml",
+              "ViewState": "AQIAAKYAAACAMzMzMzMlwP0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T19:54:05.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_NM2NGHN/e_project_onlineinsurance_/True/SqlTable/dbo.employees.sql",
+              "ToolTip": "dbo.employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-24T10:00:45.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PendingInsurance.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\PendingInsurance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\PendingInsurance.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\PendingInsurance.cshtml",
+              "RelativeToolTip": "Views\\Admin\\PendingInsurance.cshtml",
+              "ViewState": "AQIAAI0AAAAAZmZmZmYkwKgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T21:05:51.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActiveInsurance.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\ActiveInsurance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ActiveInsurance.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\ActiveInsurance.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ActiveInsurance.cshtml",
+              "ViewState": "AQIAAIoAAACAMjMzMzMbwKIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:54:07.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RejectedInsurance.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\RejectedInsurance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\RejectedInsurance.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\RejectedInsurance.cshtml",
+              "RelativeToolTip": "Views\\Admin\\RejectedInsurance.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T05:15:56.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MotorInsuranceForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\MotorInsuranceForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\MotorInsuranceForm.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\MotorInsuranceForm.cshtml",
+              "RelativeToolTip": "Views\\Admin\\MotorInsuranceForm.cshtml",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAKAAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:06:54.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LifeInsuranceForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\LifeInsuranceForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\LifeInsuranceForm.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\LifeInsuranceForm.cshtml",
+              "RelativeToolTip": "Views\\Admin\\LifeInsuranceForm.cshtml",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAAAKMAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:07:48.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeInsuranceForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\HomeInsuranceForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\HomeInsuranceForm.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\HomeInsuranceForm.cshtml",
+              "RelativeToolTip": "Views\\Admin\\HomeInsuranceForm.cshtml",
+              "ViewState": "AQIAAIoAAADAMjMzMzMrwJwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:12:07.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HealthInsuranceForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\HealthInsuranceForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\HealthInsuranceForm.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\HealthInsuranceForm.cshtml",
+              "RelativeToolTip": "Views\\Admin\\HealthInsuranceForm.cshtml",
+              "ViewState": "AQIAAIsAAACAMTMzMzMbwKEAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:12:46.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplyInsurance.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\ApplyInsurance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ApplyInsurance.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\ApplyInsurance.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ApplyInsurance.cshtml",
+              "ViewState": "AQIAAIwAAACAZWZmZmYkwKIAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T21:06:34.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Register.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T05:56:39.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Life.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Life.cs",
+              "RelativeDocumentMoniker": "Models\\Life.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Life.cs",
+              "RelativeToolTip": "Models\\Life.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:53:41.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wA0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:54:22.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Models\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:50:08.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Motor.cs",
+              "RelativeDocumentMoniker": "Models\\Motor.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Motor.cs",
+              "RelativeToolTip": "Models\\Motor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:54:01.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Insurance.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Insurance.cs",
+              "RelativeDocumentMoniker": "Models\\Insurance.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Insurance.cs",
+              "RelativeToolTip": "Models\\Insurance.cs",
+              "ViewState": "AQIAAAEAAAD4LzMzMzMbwA0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:59:40.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "Models\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:52:00.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Home.cs",
+              "RelativeDocumentMoniker": "Models\\Home.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Home.cs",
+              "RelativeToolTip": "Models\\Home.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:51:40.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HealthViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\HealthViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\HealthViewModel.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\HealthViewModel.cs",
+              "RelativeToolTip": "Models\\HealthViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:51:10.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Health.cs",
+              "RelativeDocumentMoniker": "Models\\Health.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Health.cs",
+              "RelativeToolTip": "Models\\Health.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:50:46.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:50:44.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:49:41.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomField.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\CustomField.cs",
+              "RelativeDocumentMoniker": "Models\\CustomField.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Models\\CustomField.cs",
+              "RelativeToolTip": "Models\\CustomField.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:49:39.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T04:25:44.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:25:12.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddEmployee.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\AddEmployee.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddEmployee.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:24:43.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAF8BAAAAAAAAAAAAAFsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:20:50.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:20:24.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Deleteinsurance.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Deleteinsurance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Deleteinsurance.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Deleteinsurance.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Deleteinsurance.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:19:54.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:19:16.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Editinsurance.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Editinsurance.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Editinsurance.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Editinsurance.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Editinsurance.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:18:00.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EmployeeLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\EmployeeLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EmployeeLogin.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\EmployeeLogin.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EmployeeLogin.cshtml",
+              "ViewState": "AQIAAGoDAAAAAAAAAAArwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:15:14.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAGsDAAAAAAAAAAArwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T04:06:09.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\UserLogin.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\UserLogin.cshtml",
+              "RelativeToolTip": "Views\\Admin\\UserLogin.cshtml",
+              "ViewState": "AQIAAGMDAAAAAAAAAAAtwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:56:21.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UserRegister.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\UserRegister.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\UserRegister.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Admin\\UserRegister.cshtml",
+              "RelativeToolTip": "Views\\Admin\\UserRegister.cshtml",
+              "ViewState": "AQIAAFUDAAAAAAAAAAArwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:55:33.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "mydbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\DB\\mydbcontext.cs",
+              "RelativeDocumentMoniker": "DB\\mydbcontext.cs",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\DB\\mydbcontext.cs",
+              "RelativeToolTip": "DB\\mydbcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:57:09.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ONLINE LAPTOP SHOP\\Downloads\\EPROJECT\\OnlineInsurance\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:29:11.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

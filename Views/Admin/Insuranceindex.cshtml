@@ -1,0 +1,85 @@
+﻿@model IEnumerable<OnlineInsurance.Models.Insurance>
+@{
+    ViewData["Title"] = "Insuranceindex";
+}
+
+@* 
+    <h1>Insuranceindex</h1>
+ *@
+ <div class="main-panel">
+    <div class="content">
+
+        <div class="row">
+            <div class="col-sm-3"></div> <!-- Empty column for spacing -->
+            <div class="col-sm-6">
+
+
+
+                @if (TempData["update_success"] != null)
+                {
+                    <div class="alert alert-success alert-dismissible fade show" role="alert">
+                        <strong>Updated!</strong> @TempData["update_success"]
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                }
+                @if (TempData["delete_success"] != null)
+                {
+                    <div class="alert alert-success alert-dismissible fade show" role="alert">
+                        <strong>Deleted!</strong> @TempData["delete_success"]
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                }
+
+                <p style="color:green;">@TempData["Success"]</p>
+              
+
+
+
+
+                <h4 class="card-title d-flex justify-content-between align-items-center">
+                    <span>Insurance List</span> <!-- Left aligned Employee List -->
+                    <a asp-action="Addinsurance" class="btn btn-primary">Create New</a> <!-- Right aligned button -->
+                </h4>
+                <table class="table table-bordered table-hover table-striped">
+                    <thead class="table-light">
+                        <tr>
+                            <th style="width: 10%;">@Html.DisplayNameFor(model => model.Id)</th>
+                            <th style="width: 20%;">@Html.DisplayNameFor(model => model.Name)</th>
+                            <th style="width: 20%;">@Html.DisplayNameFor(model => model.Description)</th>
+                            <th style="width: 15%;">@Html.DisplayNameFor(model => model.Premium)</th>
+                            <th style="width: 15%;">@Html.DisplayNameFor(model => model.Duration)</th>
+                            <th style="width: 15%;">@Html.DisplayNameFor(model => model.ClaimLimit)</th>
+                            <th style="width: 15%;">@Html.DisplayNameFor(model => model.Type)</th>
+
+                            <th style="width: 10%;">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Premium)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Duration)</td>
+                                <td>@Html.DisplayFor(modelItem => item.ClaimLimit)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Type)</td>
+                                <td>
+                                    <a asp-action="EditInsurance" asp-route-id="@item.Id" class="btn btn-warning btn-sm"><i class="fas fa-edit"></i> Edit</a>
+                                    <hr />
+                                    <a asp-action="DeleteInsurance" asp-route-id="@item.Id" class="btn btn-danger btn-sm"><i class="fas fa-trash-alt"></i> Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="col-sm-3"></div> <!-- Empty column for spacing -->
+</div>
+
+       
+
+

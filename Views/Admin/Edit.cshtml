@@ -1,0 +1,79 @@
+﻿@model OnlineInsurance.Models.Employee
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="main-panel">
+    <div class="content">
+        <div class="container-mt-5">
+
+            <div class="row">
+                <div class="col-sm-3"></div>
+                <div class="col-sm-6">
+                    <!-- Form Column -->
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="card-title">Edit Employee</div>
+                        </div>
+                        <hr />
+                        <p style="color:red;">@TempData["Size_Error"]</p>
+                        <p style="color:red;">@TempData["Ext_Error"]</p>
+
+                        <form asp-action="Edit" enctype="multipart/form-data" class="p-3 border rounded shadow" style="height: auto;">
+                            <div asp-validation-summary="ModelOnly" class="text-danger mb-2"></div>
+                            <input type="hidden" asp-for="Id" />
+                            <div class="form-group mb-2">
+                                <label asp-for="Name" class="control-label"></label>
+                                <input asp-for="Name" class="form-control" />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group mb-2">
+                                <label asp-for="Email" class="control-label"></label>
+                                <input asp-for="Email" class="form-control" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group mb-2">
+                                <label asp-for="Phone" class="control-label"></label>
+                                <input asp-for="Phone" class="form-control" />
+                                <span asp-validation-for="Phone" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group mb-2">
+                                <label asp-for="Password" class="control-label"></label>
+                                <input asp-for="Password" class="form-control" type="text" />
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+
+
+                            <div class="form-group mb-3">
+                                <label asp-for="Image_path" class="control-label"></label>
+                                <h6>Image can't be updated</h6>
+                                <input asp-for="Image_path" type="hidden" class="form-control" />
+                                <span asp-validation-for="Image_path" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group text-center">
+                                <input type="submit" value="update" class="btn btn-primary w-50" />
+                            </div>
+                        </form>
+                    </div>
+
+                    <div class="col-sm-3"></div> <!-- Empty column for spacing -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
